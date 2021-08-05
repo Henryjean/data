@@ -1,0 +1,1501 @@
+"source","player","mock","actual"
+"Basketball News","Cade Cunningham",1,1
+"Basketball News","Jalen Green",2,2
+"Basketball News","Evan Mobley",3,3
+"Basketball News","Jalen Suggs",4,5
+"Basketball News","Scottie Barnes",5,4
+"Basketball News","James Bouknight",6,11
+"Basketball News","Jonathan Kuminga",7,7
+"Basketball News","Moses Moody",8,14
+"Basketball News","Franz Wagner",9,8
+"Basketball News","Josh Giddey",10,6
+"Basketball News","Kai Jones",11,19
+"Basketball News","Alperen Sengun",12,16
+"Basketball News","Davion Mitchell",13,9
+"Basketball News","Chris Duarte",14,13
+"Basketball News","Corey Kispert",15,15
+"Basketball News","Ziaire Williams",16,10
+"Basketball News","Trey Murphy",17,17
+"Basketball News","Jared Butler",18,40
+"Basketball News","Isaiah Jackson",19,22
+"Basketball News","Cameron Thomas",20,27
+"Basketball News","Jalen Johnson",21,20
+"Basketball News","Keon Johnson",22,21
+"Basketball News","Usman Garuba",23,23
+"Basketball News","Jaden Springer",24,28
+"Basketball News","Tre Mann",25,18
+"Basketball News","Miles McBride",26,36
+"Basketball News","Bones Hyland",27,26
+"Basketball News","Joshua Primo",28,12
+"Basketball News","Day'Ron Sharpe",29,29
+"Basketball News","Ayo Dosunmu",30,38
+"Basketball News","Josh Christopher",31,24
+"Basketball News","Sharife Cooper",32,48
+"Basketball News","JT Thor",33,37
+"Basketball News","Jeremiah Robinson-Earl",34,32
+"Basketball News","Quentin Grimes",35,25
+"Basketball News","Isaiah Todd",36,31
+"Basketball News","BJ Boston",37,51
+"Basketball News","Sandro Mamukelashvili",38,54
+"Basketball News","Charles Bassey",39,53
+"Basketball News","Joe Wieskamp",40,41
+"Basketball News","Kessler Edwards",41,44
+"Basketball News","Vrenz Blijenbergh",42,NA
+"Basketball News","Herbert Jones",43,35
+"Basketball News","Neemias Queta",44,39
+"Basketball News","Jason Preston",45,33
+"Basketball News","Greg Brown",46,43
+"Basketball News","Aaron Henry",47,NA
+"Basketball News","David Duke",48,NA
+"Basketball News","Isaiah Livers",49,42
+"Basketball News","Sam Hauser",50,NA
+"Basketball News","Marcus Zegarowski",51,49
+"Basketball News","Juhann Begarin",52,45
+"Basketball News","Rokas Jokubaitis",53,34
+"Basketball News","Joel Ayayi",54,NA
+"Basketball News","Santi Aldama",55,30
+"Basketball News","Daishen Nix",56,NA
+"Basketball News","Jericho Sims",57,58
+"Basketball News","David Johnson",58,47
+"Basketball News","DJ Steward",59,NA
+"Basketball News","Chris Smith",60,NA
+"Bleacher Report","Cade Cunningham",1,1
+"Bleacher Report","Jalen Green",2,2
+"Bleacher Report","Evan Mobley",3,3
+"Bleacher Report","Jalen Suggs",4,5
+"Bleacher Report","Scottie Barnes",5,4
+"Bleacher Report","James Bouknight",6,11
+"Bleacher Report","Jonathan Kuminga",7,7
+"Bleacher Report","Franz Wagner",8,8
+"Bleacher Report","Alperen Sengun",9,16
+"Bleacher Report","Josh Giddey",10,6
+"Bleacher Report","Moses Moody",11,14
+"Bleacher Report","Kai Jones",12,19
+"Bleacher Report","Chris Duarte",13,13
+"Bleacher Report","Davion Mitchell",14,9
+"Bleacher Report","Trey Murphy",15,17
+"Bleacher Report","Jalen Johnson",16,20
+"Bleacher Report","Corey Kispert",17,15
+"Bleacher Report","Jared Butler",18,40
+"Bleacher Report","Ziaire Williams",19,10
+"Bleacher Report","Cameron Thomas",20,27
+"Bleacher Report","Bones Hyland",21,26
+"Bleacher Report","Keon Johnson",22,21
+"Bleacher Report","Isaiah Jackson",23,22
+"Bleacher Report","Sharife Cooper",24,48
+"Bleacher Report","Usman Garuba",25,23
+"Bleacher Report","Joshua Primo",26,12
+"Bleacher Report","Day'Ron Sharpe",27,29
+"Bleacher Report","Jaden Springer",28,28
+"Bleacher Report","Ayo Dosunmu",29,38
+"Bleacher Report","Miles McBride",30,36
+"Bleacher Report","JT Thor",31,37
+"Bleacher Report","Quentin Grimes",32,25
+"Bleacher Report","Josh Christopher",33,24
+"Bleacher Report","Tre Mann",34,18
+"Bleacher Report","Isaiah Todd",35,31
+"Bleacher Report","BJ Boston",36,51
+"Bleacher Report","Joel Ayayi",37,NA
+"Bleacher Report","Charles Bassey",38,53
+"Bleacher Report","Herbert Jones",39,35
+"Bleacher Report","Joe Wieskamp",40,41
+"Bleacher Report","Kessler Edwards",41,44
+"Bleacher Report","Jason Preston",42,33
+"Bleacher Report","Juhann Begarin",43,45
+"Bleacher Report","Aaron Henry",44,NA
+"Bleacher Report","Jeremiah Robinson-Earl",45,32
+"Bleacher Report","Filip Petrusev",46,50
+"Bleacher Report","David Johnson",47,47
+"Bleacher Report","Rokas Jokubaitis",48,34
+"Bleacher Report","Jericho Sims",49,58
+"Bleacher Report","Austin Reaves",50,NA
+"Bleacher Report","Vrenz Blijenbergh",51,NA
+"Bleacher Report","Isaiah Livers",52,42
+"Bleacher Report","Aaron Wiggins",53,55
+"Bleacher Report","Greg Brown",54,43
+"Bleacher Report","Santi Aldama",55,30
+"Bleacher Report","Luka Garza",56,52
+"Bleacher Report","Neemias Queta",57,39
+"Bleacher Report","McKinley Wright",58,NA
+"Bleacher Report","Sam Hauser",59,NA
+"Bleacher Report","Sandro Mamukelashvili",60,54
+"CBS","Cade Cunningham",1,1
+"CBS","Jalen Green",2,2
+"CBS","Evan Mobley",3,3
+"CBS","Jalen Suggs",4,5
+"CBS","Scottie Barnes",5,4
+"CBS","James Bouknight",6,11
+"CBS","Jonathan Kuminga",7,7
+"CBS","Moses Moody",8,14
+"CBS","Franz Wagner",9,8
+"CBS","Josh Giddey",10,6
+"CBS","Alperen Sengun",11,16
+"CBS","Keon Johnson",12,21
+"CBS","Jalen Johnson",13,20
+"CBS","Davion Mitchell",14,9
+"CBS","Trey Murphy",15,17
+"CBS","Isaiah Jackson",16,22
+"CBS","Corey Kispert",17,15
+"CBS","Jaden Springer",18,28
+"CBS","Jared Butler",19,40
+"CBS","Cameron Thomas",20,27
+"CBS","Usman Garuba",21,23
+"CBS","Chris Duarte",22,13
+"CBS","Ziaire Williams",23,10
+"CBS","Kai Jones",24,19
+"CBS","Bones Hyland",25,26
+"CBS","Ayo Dosunmu",26,38
+"CBS","Quentin Grimes",27,25
+"CBS","Charles Bassey",28,53
+"CBS","Tre Mann",29,18
+"CBS","Joe Wieskamp",30,41
+"CBS","Miles McBride",31,36
+"CBS","Joshua Primo",32,12
+"CBS","Sharife Cooper",33,48
+"CBS","JT Thor",34,37
+"CBS","Kessler Edwards",35,44
+"CBS","BJ Boston",36,51
+"CBS","Herbert Jones",37,35
+"CBS","Matthew Hurt",38,NA
+"CBS","Day'Ron Sharpe",39,29
+"CBS","Jeremiah Robinson-Earl",40,32
+"CBS","Josh Christopher",41,24
+"CBS","Greg Brown",42,43
+"CBS","Neemias Queta",43,39
+"CBS","Joel Ayayi",44,NA
+"CBS","Daishen Nix",45,NA
+"CBS","Aaron Henry",46,NA
+"CBS","Isaiah Todd",47,31
+"CBS","Marcus Garrett",48,NA
+"CBS","RaiQuan Gray",49,59
+"CBS","Austin Reaves",50,NA
+"CBS","Jason Preston",51,33
+"CBS","Jericho Sims",52,58
+"CBS","Filip Petrusev",53,50
+"CBS","Rokas Jokubaitis",54,34
+"CBS","Isaiah Livers",55,42
+"CBS","Juhann Begarin",56,45
+"CBS","Aaron Wiggins",57,55
+"CBS","Sam Hauser",58,NA
+"CBS","David Johnson",59,47
+"CBS","Scottie Lewis",60,56
+"Chad Ford","Cade Cunningham",1,1
+"Chad Ford","Jalen Green",2,2
+"Chad Ford","Evan Mobley",3,3
+"Chad Ford","Jalen Suggs",4,5
+"Chad Ford","Scottie Barnes",5,4
+"Chad Ford","Jonathan Kuminga",6,7
+"Chad Ford","James Bouknight",7,11
+"Chad Ford","Moses Moody",8,14
+"Chad Ford","Franz Wagner",9,8
+"Chad Ford","Josh Giddey",10,6
+"Chad Ford","Corey Kispert",11,15
+"Chad Ford","Alperen Sengun",12,16
+"Chad Ford","Chris Duarte",13,13
+"Chad Ford","Davion Mitchell",14,9
+"Chad Ford","Trey Murphy",15,17
+"Chad Ford","Ziaire Williams",16,10
+"Chad Ford","Cameron Thomas",17,27
+"Chad Ford","Isaiah Jackson",18,22
+"Chad Ford","Usman Garuba",19,23
+"Chad Ford","Keon Johnson",20,21
+"Chad Ford","Jaden Springer",21,28
+"Chad Ford","Kai Jones",22,19
+"Chad Ford","Sharife Cooper",23,48
+"Chad Ford","Isaiah Todd",24,31
+"Chad Ford","Josh Christopher",25,24
+"Chad Ford","Joshua Primo",26,12
+"Chad Ford","Day'Ron Sharpe",27,29
+"Chad Ford","Jared Butler",28,40
+"Chad Ford","Miles McBride",29,36
+"Chad Ford","Ayo Dosunmu",30,38
+"Chad Ford","Quentin Grimes",31,25
+"Chad Ford","Jalen Johnson",32,20
+"Chad Ford","JT Thor",33,37
+"Chad Ford","BJ Boston",34,51
+"Chad Ford","Tre Mann",35,18
+"Chad Ford","Vrenz Blijenbergh",36,NA
+"Chad Ford","Greg Brown",37,43
+"Chad Ford","Bones Hyland",38,26
+"Chad Ford","Herbert Jones",39,35
+"Chad Ford","Rokas Jokubaitis",40,34
+"Chad Ford","Neemias Queta",41,39
+"Chad Ford","Jason Preston",42,33
+"Chad Ford","Joe Wieskamp",43,41
+"Chad Ford","Jeremiah Robinson-Earl",44,32
+"Chad Ford","Aaron Henry",45,NA
+"Chad Ford","RaiQuan Gray",46,59
+"Chad Ford","Charles Bassey",47,53
+"Chad Ford","Juhann Begarin",48,45
+"Chad Ford","Sandro Mamukelashvili",49,54
+"Chad Ford","Filip Petrusev",50,50
+"Chad Ford","Amar Sylla",51,NA
+"Chad Ford","Jericho Sims",52,58
+"Chad Ford","Santi Aldama",53,30
+"Chad Ford","Luka Garza",54,52
+"Chad Ford","David Johnson",55,47
+"Chad Ford","Isaiah Livers",56,42
+"Chad Ford","Joel Ayayi",57,NA
+"Chad Ford","Justin Champagnie",58,NA
+"Chad Ford","Daishen Nix",59,NA
+"Chad Ford","Chris Smith",60,NA
+"Complex","Cade Cunningham",1,1
+"Complex","Jalen Green",2,2
+"Complex","Evan Mobley",3,3
+"Complex","Jalen Suggs",4,5
+"Complex","Scottie Barnes",5,4
+"Complex","James Bouknight",6,11
+"Complex","Moses Moody",7,14
+"Complex","Jonathan Kuminga",8,7
+"Complex","Franz Wagner",9,8
+"Complex","Josh Giddey",10,6
+"Complex","Jalen Johnson",11,20
+"Complex","Alperen Sengun",12,16
+"Complex","Davion Mitchell",13,9
+"Complex","Chris Duarte",14,13
+"Complex","Tre Mann",15,18
+"Complex","Isaiah Jackson",16,22
+"Complex","Corey Kispert",17,15
+"Complex","Kai Jones",18,19
+"Complex","Jared Butler",19,40
+"Complex","Sharife Cooper",20,48
+"Complex","Trey Murphy",21,17
+"Complex","Ayo Dosunmu",22,38
+"Complex","Ziaire Williams",23,10
+"Complex","Usman Garuba",24,23
+"Complex","Cameron Thomas",25,27
+"Complex","Jaden Springer",26,28
+"Complex","Day'Ron Sharpe",27,29
+"Complex","Joshua Primo",28,12
+"Complex","Miles McBride",29,36
+"Complex","Jason Preston",30,33
+"Complex","",31,NA
+"Complex","",32,NA
+"Complex","",33,NA
+"Complex","",34,NA
+"Complex","",35,NA
+"Complex","",36,NA
+"Complex","",37,NA
+"Complex","",38,NA
+"Complex","",39,NA
+"Complex","",40,NA
+"Complex","",41,NA
+"Complex","",42,NA
+"Complex","",43,NA
+"Complex","",44,NA
+"Complex","",45,NA
+"Complex","",46,NA
+"Complex","",47,NA
+"Complex","",48,NA
+"Complex","",49,NA
+"Complex","",50,NA
+"Complex","",51,NA
+"Complex","",52,NA
+"Complex","",53,NA
+"Complex","",54,NA
+"Complex","",55,NA
+"Complex","",56,NA
+"Complex","",57,NA
+"Complex","",58,NA
+"Complex","",59,NA
+"Complex","",60,NA
+"ESPN","Cade Cunningham",1,1
+"ESPN","Jalen Green",2,2
+"ESPN","Evan Mobley",3,3
+"ESPN","Jalen Suggs",4,5
+"ESPN","Scottie Barnes",5,4
+"ESPN","Jonathan Kuminga",6,7
+"ESPN","James Bouknight",7,11
+"ESPN","Moses Moody",8,14
+"ESPN","Franz Wagner",9,8
+"ESPN","Josh Giddey",10,6
+"ESPN","Corey Kispert",11,15
+"ESPN","Alperen Sengun",12,16
+"ESPN","Chris Duarte",13,13
+"ESPN","Davion Mitchell",14,9
+"ESPN","Trey Murphy",15,17
+"ESPN","Keon Johnson",16,21
+"ESPN","Ziaire Williams",17,10
+"ESPN","Jalen Johnson",18,20
+"ESPN","Kai Jones",19,19
+"ESPN","Cameron Thomas",20,27
+"ESPN","Bones Hyland",21,26
+"ESPN","Usman Garuba",22,23
+"ESPN","Sharife Cooper",23,48
+"ESPN","Isaiah Jackson",24,22
+"ESPN","Jared Butler",25,40
+"ESPN","Quentin Grimes",26,25
+"ESPN","Day'Ron Sharpe",27,29
+"ESPN","Joshua Primo",28,12
+"ESPN","Tre Mann",29,18
+"ESPN","Miles McBride",30,36
+"ESPN","Jaden Springer",31,28
+"ESPN","Ayo Dosunmu",32,38
+"ESPN","JT Thor",33,37
+"ESPN","Josh Christopher",34,24
+"ESPN","Isaiah Todd",35,31
+"ESPN","Joel Ayayi",36,NA
+"ESPN","BJ Boston",37,51
+"ESPN","Kessler Edwards",38,44
+"ESPN","Charles Bassey",39,53
+"ESPN","Juhann Begarin",40,45
+"ESPN","David Johnson",41,47
+"ESPN","Filip Petrusev",42,50
+"ESPN","Jason Preston",43,33
+"ESPN","Rokas Jokubaitis",44,34
+"ESPN","Austin Reaves",45,NA
+"ESPN","Herbert Jones",46,35
+"ESPN","Aaron Wiggins",47,55
+"ESPN","Jericho Sims",48,58
+"ESPN","Joe Wieskamp",49,41
+"ESPN","Aaron Henry",50,NA
+"ESPN","Isaiah Livers",51,42
+"ESPN","Daishen Nix",52,NA
+"ESPN","Greg Brown",53,43
+"ESPN","Luka Garza",54,52
+"ESPN","Santi Aldama",55,30
+"ESPN","Vrenz Blijenbergh",56,NA
+"ESPN","McKinley Wright",57,NA
+"ESPN","Jeremiah Robinson-Earl",58,32
+"ESPN","Sandro Mamukelashvili",59,54
+"ESPN","Neemias Queta",60,39
+"Fox Sports","Cade Cunningham",1,1
+"Fox Sports","Jalen Green",2,2
+"Fox Sports","Evan Mobley",3,3
+"Fox Sports","Jalen Suggs",4,5
+"Fox Sports","Scottie Barnes",5,4
+"Fox Sports","James Bouknight",6,11
+"Fox Sports","Jonathan Kuminga",7,7
+"Fox Sports","Moses Moody",8,14
+"Fox Sports","Franz Wagner",9,8
+"Fox Sports","Josh Giddey",10,6
+"Fox Sports","Kai Jones",11,19
+"Fox Sports","Corey Kispert",12,15
+"Fox Sports","Davion Mitchell",13,9
+"Fox Sports","Chris Duarte",14,13
+"Fox Sports","Cameron Thomas",15,27
+"Fox Sports","Alperen Sengun",16,16
+"Fox Sports","Sharife Cooper",17,48
+"Fox Sports","Usman Garuba",18,23
+"Fox Sports","Jalen Johnson",19,20
+"Fox Sports","Keon Johnson",20,21
+"Fox Sports","Isaiah Jackson",21,22
+"Fox Sports","Jared Butler",22,40
+"Fox Sports","Ziaire Williams",23,10
+"Fox Sports","Trey Murphy",24,17
+"Fox Sports","Bones Hyland",25,26
+"Fox Sports","Jeremiah Robinson-Earl",26,32
+"Fox Sports","Ayo Dosunmu",27,38
+"Fox Sports","Tre Mann",28,18
+"Fox Sports","Jaden Springer",29,28
+"Fox Sports","Miles McBride",30,36
+"Fox Sports","",31,NA
+"Fox Sports","",32,NA
+"Fox Sports","",33,NA
+"Fox Sports","",34,NA
+"Fox Sports","",35,NA
+"Fox Sports","",36,NA
+"Fox Sports","",37,NA
+"Fox Sports","",38,NA
+"Fox Sports","",39,NA
+"Fox Sports","",40,NA
+"Fox Sports","",41,NA
+"Fox Sports","",42,NA
+"Fox Sports","",43,NA
+"Fox Sports","",44,NA
+"Fox Sports","",45,NA
+"Fox Sports","",46,NA
+"Fox Sports","",47,NA
+"Fox Sports","",48,NA
+"Fox Sports","",49,NA
+"Fox Sports","",50,NA
+"Fox Sports","",51,NA
+"Fox Sports","",52,NA
+"Fox Sports","",53,NA
+"Fox Sports","",54,NA
+"Fox Sports","",55,NA
+"Fox Sports","",56,NA
+"Fox Sports","",57,NA
+"Fox Sports","",58,NA
+"Fox Sports","",59,NA
+"Fox Sports","",60,NA
+"LA Times","Cade Cunningham",1,1
+"LA Times","Jalen Green",2,2
+"LA Times","Evan Mobley",3,3
+"LA Times","Jalen Suggs",4,5
+"LA Times","Scottie Barnes",5,4
+"LA Times","James Bouknight",6,11
+"LA Times","Jonathan Kuminga",7,7
+"LA Times","Franz Wagner",8,8
+"LA Times","Moses Moody",9,14
+"LA Times","Josh Giddey",10,6
+"LA Times","Jalen Johnson",11,20
+"LA Times","Kai Jones",12,19
+"LA Times","Davion Mitchell",13,9
+"LA Times","Chris Duarte",14,13
+"LA Times","Trey Murphy",15,17
+"LA Times","Corey Kispert",16,15
+"LA Times","Keon Johnson",17,21
+"LA Times","Ziaire Williams",18,10
+"LA Times","Miles McBride",19,36
+"LA Times","Alperen Sengun",20,16
+"LA Times","Isaiah Jackson",21,22
+"LA Times","Ayo Dosunmu",22,38
+"LA Times","Jared Butler",23,40
+"LA Times","Bones Hyland",24,26
+"LA Times","Joshua Primo",25,12
+"LA Times","Josh Christopher",26,24
+"LA Times","Tre Mann",27,18
+"LA Times","Quentin Grimes",28,25
+"LA Times","Joel Ayayi",29,NA
+"LA Times","Jaden Springer",30,28
+"LA Times","",31,NA
+"LA Times","",32,NA
+"LA Times","",33,NA
+"LA Times","",34,NA
+"LA Times","",35,NA
+"LA Times","",36,NA
+"LA Times","",37,NA
+"LA Times","",38,NA
+"LA Times","",39,NA
+"LA Times","",40,NA
+"LA Times","",41,NA
+"LA Times","",42,NA
+"LA Times","",43,NA
+"LA Times","",44,NA
+"LA Times","",45,NA
+"LA Times","",46,NA
+"LA Times","",47,NA
+"LA Times","",48,NA
+"LA Times","",49,NA
+"LA Times","",50,NA
+"LA Times","",51,NA
+"LA Times","",52,NA
+"LA Times","",53,NA
+"LA Times","",54,NA
+"LA Times","",55,NA
+"LA Times","",56,NA
+"LA Times","",57,NA
+"LA Times","",58,NA
+"LA Times","",59,NA
+"LA Times","",60,NA
+"mynbadraft.com","Cade Cunningham",1,1
+"mynbadraft.com","Jalen Green",2,2
+"mynbadraft.com","Evan Mobley",3,3
+"mynbadraft.com","Jalen Suggs",4,5
+"mynbadraft.com","Scottie Barnes",5,4
+"mynbadraft.com","James Bouknight",6,11
+"mynbadraft.com","Franz Wagner",7,8
+"mynbadraft.com","Moses Moody",8,14
+"mynbadraft.com","Alperen Sengun",9,16
+"mynbadraft.com","Josh Giddey",10,6
+"mynbadraft.com","Jonathan Kuminga",11,7
+"mynbadraft.com","Corey Kispert",12,15
+"mynbadraft.com","Davion Mitchell",13,9
+"mynbadraft.com","Trey Murphy",14,17
+"mynbadraft.com","Chris Duarte",15,13
+"mynbadraft.com","Ziaire Williams",16,10
+"mynbadraft.com","Jalen Johnson",17,20
+"mynbadraft.com","Kai Jones",18,19
+"mynbadraft.com","Keon Johnson",19,21
+"mynbadraft.com","Jaden Springer",20,28
+"mynbadraft.com","Isaiah Jackson",21,22
+"mynbadraft.com","Cameron Thomas",22,27
+"mynbadraft.com","Usman Garuba",23,23
+"mynbadraft.com","Sharife Cooper",24,48
+"mynbadraft.com","Bones Hyland",25,26
+"mynbadraft.com","Ayo Dosunmu",26,38
+"mynbadraft.com","Jared Butler",27,40
+"mynbadraft.com","Quentin Grimes",28,25
+"mynbadraft.com","Tre Mann",29,18
+"mynbadraft.com","Joshua Primo",30,12
+"mynbadraft.com","Miles McBride",31,36
+"mynbadraft.com","Joel Ayayi",32,NA
+"mynbadraft.com","Day'Ron Sharpe",33,29
+"mynbadraft.com","BJ Boston",34,51
+"mynbadraft.com","Josh Christopher",35,24
+"mynbadraft.com","Rokas Jokubaitis",36,34
+"mynbadraft.com","Juhann Begarin",37,45
+"mynbadraft.com","JT Thor",38,37
+"mynbadraft.com","Greg Brown",39,43
+"mynbadraft.com","Charles Bassey",40,53
+"mynbadraft.com","Neemias Queta",41,39
+"mynbadraft.com","Filip Petrusev",42,50
+"mynbadraft.com","Jeremiah Robinson-Earl",43,32
+"mynbadraft.com","Joe Wieskamp",44,41
+"mynbadraft.com","Daishen Nix",45,NA
+"mynbadraft.com","Austin Reaves",46,NA
+"mynbadraft.com","Herbert Jones",47,35
+"mynbadraft.com","Aaron Henry",48,NA
+"mynbadraft.com","Isaiah Todd",49,31
+"mynbadraft.com","Vrenz Blijenbergh",50,NA
+"mynbadraft.com","Jason Preston",51,33
+"mynbadraft.com","Isaiah Livers",52,42
+"mynbadraft.com","Luka Garza",53,52
+"mynbadraft.com","Matthew Hurt",54,NA
+"mynbadraft.com","Kessler Edwards",55,44
+"mynbadraft.com","Aaron Wiggins",56,55
+"mynbadraft.com","David Johnson",57,47
+"mynbadraft.com","McKinley Wright",58,NA
+"mynbadraft.com","RaiQuan Gray",59,59
+"mynbadraft.com","Jericho Sims",60,58
+"NBA Draft Room","Cade Cunningham",1,1
+"NBA Draft Room","Jalen Green",2,2
+"NBA Draft Room","Evan Mobley",3,3
+"NBA Draft Room","Jalen Suggs",4,5
+"NBA Draft Room","Scottie Barnes",5,4
+"NBA Draft Room","James Bouknight",6,11
+"NBA Draft Room","Franz Wagner",7,8
+"NBA Draft Room","Jonathan Kuminga",8,7
+"NBA Draft Room","Alperen Sengun",9,16
+"NBA Draft Room","Josh Giddey",10,6
+"NBA Draft Room","Moses Moody",11,14
+"NBA Draft Room","Usman Garuba",12,23
+"NBA Draft Room","Davion Mitchell",13,9
+"NBA Draft Room","Chris Duarte",14,13
+"NBA Draft Room","Ziaire Williams",15,10
+"NBA Draft Room","Kai Jones",16,19
+"NBA Draft Room","Corey Kispert",17,15
+"NBA Draft Room","Keon Johnson",18,21
+"NBA Draft Room","Jalen Johnson",19,20
+"NBA Draft Room","Trey Murphy",20,17
+"NBA Draft Room","Miles McBride",21,36
+"NBA Draft Room","Jared Butler",22,40
+"NBA Draft Room","Isaiah Jackson",23,22
+"NBA Draft Room","Bones Hyland",24,26
+"NBA Draft Room","Tre Mann",25,18
+"NBA Draft Room","Cameron Thomas",26,27
+"NBA Draft Room","Day'Ron Sharpe",27,29
+"NBA Draft Room","Jaden Springer",28,28
+"NBA Draft Room","Sharife Cooper",29,48
+"NBA Draft Room","Joshua Primo",30,12
+"NBA Draft Room","Quentin Grimes",31,25
+"NBA Draft Room","Ayo Dosunmu",32,38
+"NBA Draft Room","Isaiah Todd",33,31
+"NBA Draft Room","JT Thor",34,37
+"NBA Draft Room","Jeremiah Robinson-Earl",35,32
+"NBA Draft Room","Joe Wieskamp",36,41
+"NBA Draft Room","Herbert Jones",37,35
+"NBA Draft Room","Josh Christopher",38,24
+"NBA Draft Room","Vrenz Blijenbergh",39,NA
+"NBA Draft Room","Aaron Henry",40,NA
+"NBA Draft Room","BJ Boston",41,51
+"NBA Draft Room","Charles Bassey",42,53
+"NBA Draft Room","Joel Ayayi",43,NA
+"NBA Draft Room","Filip Petrusev",44,50
+"NBA Draft Room","Rokas Jokubaitis",45,34
+"NBA Draft Room","Neemias Queta",46,39
+"NBA Draft Room","Amar Sylla",47,NA
+"NBA Draft Room","Kessler Edwards",48,44
+"NBA Draft Room","Duane Washington",49,NA
+"NBA Draft Room","EJ Onu",50,NA
+"NBA Draft Room","Feron Hunt",51,NA
+"NBA Draft Room","Jason Preston",52,33
+"NBA Draft Room","Austin Reaves",53,NA
+"NBA Draft Room","Chris Smith",54,NA
+"NBA Draft Room","Sandro Mamukelashvili",55,54
+"NBA Draft Room","Greg Brown",56,43
+"NBA Draft Room","RaiQuan Gray",57,59
+"NBA Draft Room","Dalano Banton",58,46
+"NBA Draft Room","Luka Garza",59,52
+"NBA Draft Room","Jericho Sims",60,58
+"nbadraft.net","Cade Cunningham",1,1
+"nbadraft.net","Jalen Green",2,2
+"nbadraft.net","Evan Mobley",3,3
+"nbadraft.net","Jalen Suggs",4,5
+"nbadraft.net","Scottie Barnes",5,4
+"nbadraft.net","James Bouknight",6,11
+"nbadraft.net","Jonathan Kuminga",7,7
+"nbadraft.net","Moses Moody",8,14
+"nbadraft.net","Franz Wagner",9,8
+"nbadraft.net","Josh Giddey",10,6
+"nbadraft.net","Kai Jones",11,19
+"nbadraft.net","Alperen Sengun",12,16
+"nbadraft.net","Corey Kispert",13,15
+"nbadraft.net","Davion Mitchell",14,9
+"nbadraft.net","Chris Duarte",15,13
+"nbadraft.net","Jalen Johnson",16,20
+"nbadraft.net","Trey Murphy",17,17
+"nbadraft.net","Keon Johnson",18,21
+"nbadraft.net","Miles McBride",19,36
+"nbadraft.net","Ziaire Williams",20,10
+"nbadraft.net","Isaiah Jackson",21,22
+"nbadraft.net","Jared Butler",22,40
+"nbadraft.net","Usman Garuba",23,23
+"nbadraft.net","Cameron Thomas",24,27
+"nbadraft.net","Bones Hyland",25,26
+"nbadraft.net","Joshua Primo",26,12
+"nbadraft.net","Ayo Dosunmu",27,38
+"nbadraft.net","Jaden Springer",28,28
+"nbadraft.net","Day'Ron Sharpe",29,29
+"nbadraft.net","Joel Ayayi",30,NA
+"nbadraft.net","Quentin Grimes",31,25
+"nbadraft.net","Tre Mann",32,18
+"nbadraft.net","Isaiah Todd",33,31
+"nbadraft.net","Sharife Cooper",34,48
+"nbadraft.net","Josh Christopher",35,24
+"nbadraft.net","JT Thor",36,37
+"nbadraft.net","Charles Bassey",37,53
+"nbadraft.net","BJ Boston",38,51
+"nbadraft.net","Juhann Begarin",39,45
+"nbadraft.net","Joe Wieskamp",40,41
+"nbadraft.net","Jason Preston",41,33
+"nbadraft.net","Herbert Jones",42,35
+"nbadraft.net","Moses Wright",43,NA
+"nbadraft.net","Jericho Sims",44,58
+"nbadraft.net","Jeremiah Robinson-Earl",45,32
+"nbadraft.net","Aaron Wiggins",46,55
+"nbadraft.net","Filip Petrusev",47,50
+"nbadraft.net","Greg Brown",48,43
+"nbadraft.net","Isaiah Livers",49,42
+"nbadraft.net","Neemias Queta",50,39
+"nbadraft.net","Vrenz Blijenbergh",51,NA
+"nbadraft.net","Kessler Edwards",52,44
+"nbadraft.net","Daishen Nix",53,NA
+"nbadraft.net","David Johnson",54,47
+"nbadraft.net","Duane Washington",55,NA
+"nbadraft.net","Justin Champagnie",56,NA
+"nbadraft.net","EJ Onu",57,NA
+"nbadraft.net","Rokas Jokubaitis",58,34
+"nbadraft.net","David Duke",59,NA
+"nbadraft.net","Sandro Mamukelashvili",60,54
+"NBC Sports","Cade Cunningham",1,1
+"NBC Sports","Jalen Green",2,2
+"NBC Sports","Evan Mobley",3,3
+"NBC Sports","Jalen Suggs",4,5
+"NBC Sports","Scottie Barnes",5,4
+"NBC Sports","James Bouknight",6,11
+"NBC Sports","Jonathan Kuminga",7,7
+"NBC Sports","Keon Johnson",8,21
+"NBC Sports","Franz Wagner",9,8
+"NBC Sports","Josh Giddey",10,6
+"NBC Sports","Kai Jones",11,19
+"NBC Sports","Jalen Johnson",12,20
+"NBC Sports","Davion Mitchell",13,9
+"NBC Sports","Corey Kispert",14,15
+"NBC Sports","Trey Murphy",15,17
+"NBC Sports","Alperen Sengun",16,16
+"NBC Sports","Moses Moody",17,14
+"NBC Sports","Cameron Thomas",18,27
+"NBC Sports","Chris Duarte",19,13
+"NBC Sports","Ziaire Williams",20,10
+"NBC Sports","Usman Garuba",21,23
+"NBC Sports","Ayo Dosunmu",22,38
+"NBC Sports","Isaiah Jackson",23,22
+"NBC Sports","Jaden Springer",24,28
+"NBC Sports","Sharife Cooper",25,48
+"NBC Sports","Jared Butler",26,40
+"NBC Sports","Day'Ron Sharpe",27,29
+"NBC Sports","Bones Hyland",28,26
+"NBC Sports","Tre Mann",29,18
+"NBC Sports","JT Thor",30,37
+"NBC Sports","Josh Christopher",31,24
+"NBC Sports","Charles Bassey",32,53
+"NBC Sports","Miles McBride",33,36
+"NBC Sports","Joshua Primo",34,12
+"NBC Sports","Isaiah Todd",35,31
+"NBC Sports","BJ Boston",36,51
+"NBC Sports","Joel Ayayi",37,NA
+"NBC Sports","Quentin Grimes",38,25
+"NBC Sports","Filip Petrusev",39,50
+"NBC Sports","Herbert Jones",40,35
+"NBC Sports","Aaron Henry",41,NA
+"NBC Sports","Daishen Nix",42,NA
+"NBC Sports","Vrenz Blijenbergh",43,NA
+"NBC Sports","Kessler Edwards",44,44
+"NBC Sports","Joe Wieskamp",45,41
+"NBC Sports","Aaron Wiggins",46,55
+"NBC Sports","Greg Brown",47,43
+"NBC Sports","Jeremiah Robinson-Earl",48,32
+"NBC Sports","Austin Reaves",49,NA
+"NBC Sports","Luka Garza",50,52
+"NBC Sports","David Johnson",51,47
+"NBC Sports","Isaiah Livers",52,42
+"NBC Sports","Matthew Hurt",53,NA
+"NBC Sports","Jericho Sims",54,58
+"NBC Sports","Juhann Begarin",55,45
+"NBC Sports","DJ Steward",56,NA
+"NBC Sports","Neemias Queta",57,39
+"NBC Sports","RaiQuan Gray",58,59
+"NBC Sports","Sandro Mamukelashvili",59,54
+"NBC Sports","Trendon Watford",60,NA
+"Net Scouts","Cade Cunningham",1,1
+"Net Scouts","Jalen Green",2,2
+"Net Scouts","Evan Mobley",3,3
+"Net Scouts","Jalen Suggs",4,5
+"Net Scouts","Scottie Barnes",5,4
+"Net Scouts","Jonathan Kuminga",6,7
+"Net Scouts","James Bouknight",7,11
+"Net Scouts","Alperen Sengun",8,16
+"Net Scouts","Franz Wagner",9,8
+"Net Scouts","Josh Giddey",10,6
+"Net Scouts","Kai Jones",11,19
+"Net Scouts","Keon Johnson",12,21
+"Net Scouts","Davion Mitchell",13,9
+"Net Scouts","Chris Duarte",14,13
+"Net Scouts","Moses Moody",15,14
+"Net Scouts","Usman Garuba",16,23
+"Net Scouts","Corey Kispert",17,15
+"Net Scouts","Isaiah Jackson",18,22
+"Net Scouts","Cameron Thomas",19,27
+"Net Scouts","Trey Murphy",20,17
+"Net Scouts","Jalen Johnson",21,20
+"Net Scouts","Ayo Dosunmu",22,38
+"Net Scouts","Ziaire Williams",23,10
+"Net Scouts","Miles McBride",24,36
+"Net Scouts","Sharife Cooper",25,48
+"Net Scouts","Tre Mann",26,18
+"Net Scouts","Day'Ron Sharpe",27,29
+"Net Scouts","Jaden Springer",28,28
+"Net Scouts","Jared Butler",29,40
+"Net Scouts","Greg Brown",30,43
+"Net Scouts","Bones Hyland",31,26
+"Net Scouts","Josh Christopher",32,24
+"Net Scouts","Joshua Primo",33,12
+"Net Scouts","Herbert Jones",34,35
+"Net Scouts","Filip Petrusev",35,50
+"Net Scouts","Isaiah Todd",36,31
+"Net Scouts","Quentin Grimes",37,25
+"Net Scouts","Daishen Nix",38,NA
+"Net Scouts","Jeremiah Robinson-Earl",39,32
+"Net Scouts","Rokas Jokubaitis",40,34
+"Net Scouts","Charles Bassey",41,53
+"Net Scouts","BJ Boston",42,51
+"Net Scouts","David Duke",43,NA
+"Net Scouts","Joel Ayayi",44,NA
+"Net Scouts","David Johnson",45,47
+"Net Scouts","Vrenz Blijenbergh",46,NA
+"Net Scouts","Jason Preston",47,33
+"Net Scouts","JT Thor",48,37
+"Net Scouts","Neemias Queta",49,39
+"Net Scouts","Kessler Edwards",50,44
+"Net Scouts","Matthew Hurt",51,NA
+"Net Scouts","Aaron Henry",52,NA
+"Net Scouts","Luka Garza",53,52
+"Net Scouts","Austin Reaves",54,NA
+"Net Scouts","Joe Wieskamp",55,41
+"Net Scouts","AJ Lawson",56,NA
+"Net Scouts","Jericho Sims",57,58
+"Net Scouts","Sandro Mamukelashvili",58,54
+"Net Scouts","EJ Onu",59,NA
+"Net Scouts","Juhann Begarin",60,45
+"NY Post","Cade Cunningham",1,1
+"NY Post","Jalen Green",2,2
+"NY Post","Evan Mobley",3,3
+"NY Post","Jalen Suggs",4,5
+"NY Post","Scottie Barnes",5,4
+"NY Post","Jonathan Kuminga",6,7
+"NY Post","Davion Mitchell",7,9
+"NY Post","Corey Kispert",8,15
+"NY Post","Keon Johnson",9,21
+"NY Post","James Bouknight",10,11
+"NY Post","Franz Wagner",11,8
+"NY Post","Josh Giddey",12,6
+"NY Post","Moses Moody",13,14
+"NY Post","Trey Murphy",14,17
+"NY Post","Kai Jones",15,19
+"NY Post","Alperen Sengun",16,16
+"NY Post","Chris Duarte",17,13
+"NY Post","Ziaire Williams",18,10
+"NY Post","Sharife Cooper",19,48
+"NY Post","Jared Butler",20,40
+"NY Post","Usman Garuba",21,23
+"NY Post","Cameron Thomas",22,27
+"NY Post","Isaiah Jackson",23,22
+"NY Post","Jalen Johnson",24,20
+"NY Post","Ayo Dosunmu",25,38
+"NY Post","Joshua Primo",26,12
+"NY Post","Miles McBride",27,36
+"NY Post","Bones Hyland",28,26
+"NY Post","Tre Mann",29,18
+"NY Post","Greg Brown",30,43
+"NY Post","",31,NA
+"NY Post","",32,NA
+"NY Post","",33,NA
+"NY Post","",34,NA
+"NY Post","",35,NA
+"NY Post","",36,NA
+"NY Post","",37,NA
+"NY Post","",38,NA
+"NY Post","",39,NA
+"NY Post","",40,NA
+"NY Post","",41,NA
+"NY Post","",42,NA
+"NY Post","",43,NA
+"NY Post","",44,NA
+"NY Post","",45,NA
+"NY Post","",46,NA
+"NY Post","",47,NA
+"NY Post","",48,NA
+"NY Post","",49,NA
+"NY Post","",50,NA
+"NY Post","",51,NA
+"NY Post","",52,NA
+"NY Post","",53,NA
+"NY Post","",54,NA
+"NY Post","",55,NA
+"NY Post","",56,NA
+"NY Post","",57,NA
+"NY Post","",58,NA
+"NY Post","",59,NA
+"NY Post","",60,NA
+"Philadelphia Inquirer","Cade Cunningham",1,1
+"Philadelphia Inquirer","Jalen Green",2,2
+"Philadelphia Inquirer","Evan Mobley",3,3
+"Philadelphia Inquirer","Jalen Suggs",4,5
+"Philadelphia Inquirer","Scottie Barnes",5,4
+"Philadelphia Inquirer","Jonathan Kuminga",6,7
+"Philadelphia Inquirer","James Bouknight",7,11
+"Philadelphia Inquirer","Davion Mitchell",8,9
+"Philadelphia Inquirer","Alperen Sengun",9,16
+"Philadelphia Inquirer","Moses Moody",10,14
+"Philadelphia Inquirer","Corey Kispert",11,15
+"Philadelphia Inquirer","Jalen Johnson",12,20
+"Philadelphia Inquirer","Franz Wagner",13,8
+"Philadelphia Inquirer","Josh Giddey",14,6
+"Philadelphia Inquirer","Chris Duarte",15,13
+"Philadelphia Inquirer","Keon Johnson",16,21
+"Philadelphia Inquirer","Ziaire Williams",17,10
+"Philadelphia Inquirer","Usman Garuba",18,23
+"Philadelphia Inquirer","Jared Butler",19,40
+"Philadelphia Inquirer","Sharife Cooper",20,48
+"Philadelphia Inquirer","Isaiah Jackson",21,22
+"Philadelphia Inquirer","Cameron Thomas",22,27
+"Philadelphia Inquirer","Trey Murphy",23,17
+"Philadelphia Inquirer","Ayo Dosunmu",24,38
+"Philadelphia Inquirer","Miles McBride",25,36
+"Philadelphia Inquirer","Jaden Springer",26,28
+"Philadelphia Inquirer","Day'Ron Sharpe",27,29
+"Philadelphia Inquirer","Quentin Grimes",28,25
+"Philadelphia Inquirer","Kai Jones",29,19
+"Philadelphia Inquirer","Jeremiah Robinson-Earl",30,32
+"Philadelphia Inquirer","",31,NA
+"Philadelphia Inquirer","",32,NA
+"Philadelphia Inquirer","",33,NA
+"Philadelphia Inquirer","",34,NA
+"Philadelphia Inquirer","",35,NA
+"Philadelphia Inquirer","",36,NA
+"Philadelphia Inquirer","",37,NA
+"Philadelphia Inquirer","",38,NA
+"Philadelphia Inquirer","",39,NA
+"Philadelphia Inquirer","",40,NA
+"Philadelphia Inquirer","",41,NA
+"Philadelphia Inquirer","",42,NA
+"Philadelphia Inquirer","",43,NA
+"Philadelphia Inquirer","",44,NA
+"Philadelphia Inquirer","",45,NA
+"Philadelphia Inquirer","",46,NA
+"Philadelphia Inquirer","",47,NA
+"Philadelphia Inquirer","",48,NA
+"Philadelphia Inquirer","",49,NA
+"Philadelphia Inquirer","",50,NA
+"Philadelphia Inquirer","",51,NA
+"Philadelphia Inquirer","",52,NA
+"Philadelphia Inquirer","",53,NA
+"Philadelphia Inquirer","",54,NA
+"Philadelphia Inquirer","",55,NA
+"Philadelphia Inquirer","",56,NA
+"Philadelphia Inquirer","",57,NA
+"Philadelphia Inquirer","",58,NA
+"Philadelphia Inquirer","",59,NA
+"Philadelphia Inquirer","",60,NA
+"SB Nation","Cade Cunningham",1,1
+"SB Nation","Jalen Green",2,2
+"SB Nation","Evan Mobley",3,3
+"SB Nation","Jalen Suggs",4,5
+"SB Nation","Scottie Barnes",5,4
+"SB Nation","Jonathan Kuminga",6,7
+"SB Nation","James Bouknight",7,11
+"SB Nation","Franz Wagner",8,8
+"SB Nation","Moses Moody",9,14
+"SB Nation","Josh Giddey",10,6
+"SB Nation","Kai Jones",11,19
+"SB Nation","Alperen Sengun",12,16
+"SB Nation","Davion Mitchell",13,9
+"SB Nation","Corey Kispert",14,15
+"SB Nation","Chris Duarte",15,13
+"SB Nation","Ziaire Williams",16,10
+"SB Nation","Trey Murphy",17,17
+"SB Nation","Usman Garuba",18,23
+"SB Nation","Keon Johnson",19,21
+"SB Nation","Jared Butler",20,40
+"SB Nation","Isaiah Jackson",21,22
+"SB Nation","Tre Mann",22,18
+"SB Nation","Jalen Johnson",23,20
+"SB Nation","Cameron Thomas",24,27
+"SB Nation","Miles McBride",25,36
+"SB Nation","Joshua Primo",26,12
+"SB Nation","Ayo Dosunmu",27,38
+"SB Nation","Sharife Cooper",28,48
+"SB Nation","Bones Hyland",29,26
+"SB Nation","Jaden Springer",30,28
+"SB Nation","",31,NA
+"SB Nation","",32,NA
+"SB Nation","",33,NA
+"SB Nation","",34,NA
+"SB Nation","",35,NA
+"SB Nation","",36,NA
+"SB Nation","",37,NA
+"SB Nation","",38,NA
+"SB Nation","",39,NA
+"SB Nation","",40,NA
+"SB Nation","",41,NA
+"SB Nation","",42,NA
+"SB Nation","",43,NA
+"SB Nation","",44,NA
+"SB Nation","",45,NA
+"SB Nation","",46,NA
+"SB Nation","",47,NA
+"SB Nation","",48,NA
+"SB Nation","",49,NA
+"SB Nation","",50,NA
+"SB Nation","",51,NA
+"SB Nation","",52,NA
+"SB Nation","",53,NA
+"SB Nation","",54,NA
+"SB Nation","",55,NA
+"SB Nation","",56,NA
+"SB Nation","",57,NA
+"SB Nation","",58,NA
+"SB Nation","",59,NA
+"SB Nation","",60,NA
+"Sporting News","Cade Cunningham",1,1
+"Sporting News","Jalen Green",2,2
+"Sporting News","Evan Mobley",3,3
+"Sporting News","Jonathan Kuminga",4,7
+"Sporting News","Jalen Suggs",5,5
+"Sporting News","Scottie Barnes",6,4
+"Sporting News","Davion Mitchell",7,9
+"Sporting News","Keon Johnson",8,21
+"Sporting News","Alperen Sengun",9,16
+"Sporting News","James Bouknight",10,11
+"Sporting News","Kai Jones",11,19
+"Sporting News","Corey Kispert",12,15
+"Sporting News","Franz Wagner",13,8
+"Sporting News","Chris Duarte",14,13
+"Sporting News","Moses Moody",15,14
+"Sporting News","Josh Giddey",16,6
+"Sporting News","Jaden Springer",17,28
+"Sporting News","Usman Garuba",18,23
+"Sporting News","Tre Mann",19,18
+"Sporting News","Jared Butler",20,40
+"Sporting News","Isaiah Jackson",21,22
+"Sporting News","Jalen Johnson",22,20
+"Sporting News","Greg Brown",23,43
+"Sporting News","Bones Hyland",24,26
+"Sporting News","Ziaire Williams",25,10
+"Sporting News","Cameron Thomas",26,27
+"Sporting News","Sharife Cooper",27,48
+"Sporting News","Joshua Primo",28,12
+"Sporting News","Ayo Dosunmu",29,38
+"Sporting News","Rokas Jokubaitis",30,34
+"Sporting News","",31,NA
+"Sporting News","",32,NA
+"Sporting News","",33,NA
+"Sporting News","",34,NA
+"Sporting News","",35,NA
+"Sporting News","",36,NA
+"Sporting News","",37,NA
+"Sporting News","",38,NA
+"Sporting News","",39,NA
+"Sporting News","",40,NA
+"Sporting News","",41,NA
+"Sporting News","",42,NA
+"Sporting News","",43,NA
+"Sporting News","",44,NA
+"Sporting News","",45,NA
+"Sporting News","",46,NA
+"Sporting News","",47,NA
+"Sporting News","",48,NA
+"Sporting News","",49,NA
+"Sporting News","",50,NA
+"Sporting News","",51,NA
+"Sporting News","",52,NA
+"Sporting News","",53,NA
+"Sporting News","",54,NA
+"Sporting News","",55,NA
+"Sporting News","",56,NA
+"Sporting News","",57,NA
+"Sporting News","",58,NA
+"Sporting News","",59,NA
+"Sporting News","",60,NA
+"Sports Illustrated","Cade Cunningham",1,1
+"Sports Illustrated","Jalen Green",2,2
+"Sports Illustrated","Evan Mobley",3,3
+"Sports Illustrated","Jalen Suggs",4,5
+"Sports Illustrated","Scottie Barnes",5,4
+"Sports Illustrated","James Bouknight",6,11
+"Sports Illustrated","Jonathan Kuminga",7,7
+"Sports Illustrated","Franz Wagner",8,8
+"Sports Illustrated","Alperen Sengun",9,16
+"Sports Illustrated","Josh Giddey",10,6
+"Sports Illustrated","Kai Jones",11,19
+"Sports Illustrated","Moses Moody",12,14
+"Sports Illustrated","Davion Mitchell",13,9
+"Sports Illustrated","Chris Duarte",14,13
+"Sports Illustrated","Corey Kispert",15,15
+"Sports Illustrated","Ziaire Williams",16,10
+"Sports Illustrated","Trey Murphy",17,17
+"Sports Illustrated","Day'Ron Sharpe",18,29
+"Sports Illustrated","Isaiah Jackson",19,22
+"Sports Illustrated","Joshua Primo",20,12
+"Sports Illustrated","Keon Johnson",21,21
+"Sports Illustrated","Usman Garuba",22,23
+"Sports Illustrated","BJ Boston",23,51
+"Sports Illustrated","Jalen Johnson",24,20
+"Sports Illustrated","Bones Hyland",25,26
+"Sports Illustrated","Cameron Thomas",26,27
+"Sports Illustrated","Miles McBride",27,36
+"Sports Illustrated","JT Thor",28,37
+"Sports Illustrated","Kessler Edwards",29,44
+"Sports Illustrated","Quentin Grimes",30,25
+"Sports Illustrated","Ayo Dosunmu",31,38
+"Sports Illustrated","Sharife Cooper",32,48
+"Sports Illustrated","Jaden Springer",33,28
+"Sports Illustrated","Jared Butler",34,40
+"Sports Illustrated","Jeremiah Robinson-Earl",35,32
+"Sports Illustrated","Joel Ayayi",36,NA
+"Sports Illustrated","Tre Mann",37,18
+"Sports Illustrated","Jason Preston",38,33
+"Sports Illustrated","Isaiah Todd",39,31
+"Sports Illustrated","Josh Christopher",40,24
+"Sports Illustrated","Rokas Jokubaitis",41,34
+"Sports Illustrated","Juhann Begarin",42,45
+"Sports Illustrated","Joe Wieskamp",43,41
+"Sports Illustrated","Charles Bassey",44,53
+"Sports Illustrated","Austin Reaves",45,NA
+"Sports Illustrated","Aaron Wiggins",46,55
+"Sports Illustrated","Herbert Jones",47,35
+"Sports Illustrated","David Johnson",48,47
+"Sports Illustrated","AJ Lawson",49,NA
+"Sports Illustrated","Aaron Henry",50,NA
+"Sports Illustrated","Duane Washington",51,NA
+"Sports Illustrated","RaiQuan Gray",52,59
+"Sports Illustrated","Jericho Sims",53,58
+"Sports Illustrated","Amar Sylla",54,NA
+"Sports Illustrated","Santi Aldama",55,30
+"Sports Illustrated","Filip Petrusev",56,50
+"Sports Illustrated","Greg Brown",57,43
+"Sports Illustrated","Neemias Queta",58,39
+"Sports Illustrated","Vrenz Blijenbergh",59,NA
+"Sports Illustrated","Sam Hauser",60,NA
+"Tankathon","Cade Cunningham",1,1
+"Tankathon","Jalen Green",2,2
+"Tankathon","Evan Mobley",3,3
+"Tankathon","Jalen Suggs",4,5
+"Tankathon","Scottie Barnes",5,4
+"Tankathon","James Bouknight",6,11
+"Tankathon","Jonathan Kuminga",7,7
+"Tankathon","Franz Wagner",8,8
+"Tankathon","Alperen Sengun",9,16
+"Tankathon","Josh Giddey",10,6
+"Tankathon","Moses Moody",11,14
+"Tankathon","Usman Garuba",12,23
+"Tankathon","Davion Mitchell",13,9
+"Tankathon","Chris Duarte",14,13
+"Tankathon","Corey Kispert",15,15
+"Tankathon","Ziaire Williams",16,10
+"Tankathon","Trey Murphy",17,17
+"Tankathon","Kai Jones",18,19
+"Tankathon","Keon Johnson",19,21
+"Tankathon","Jalen Johnson",20,20
+"Tankathon","Isaiah Jackson",21,22
+"Tankathon","Jaden Springer",22,28
+"Tankathon","Jared Butler",23,40
+"Tankathon","Day'Ron Sharpe",24,29
+"Tankathon","Cameron Thomas",25,27
+"Tankathon","Bones Hyland",26,26
+"Tankathon","Quentin Grimes",27,25
+"Tankathon","Sharife Cooper",28,48
+"Tankathon","Miles McBride",29,36
+"Tankathon","Tre Mann",30,18
+"Tankathon","Joel Ayayi",31,NA
+"Tankathon","Ayo Dosunmu",32,38
+"Tankathon","Joshua Primo",33,12
+"Tankathon","Rokas Jokubaitis",34,34
+"Tankathon","Josh Christopher",35,24
+"Tankathon","Juhann Begarin",36,45
+"Tankathon","Neemias Queta",37,39
+"Tankathon","Jason Preston",38,33
+"Tankathon","Joe Wieskamp",39,41
+"Tankathon","BJ Boston",40,51
+"Tankathon","Aaron Wiggins",41,55
+"Tankathon","JT Thor",42,37
+"Tankathon","Filip Petrusev",43,50
+"Tankathon","Isaiah Todd",44,31
+"Tankathon","Kessler Edwards",45,44
+"Tankathon","Herbert Jones",46,35
+"Tankathon","Vrenz Blijenbergh",47,NA
+"Tankathon","Daishen Nix",48,NA
+"Tankathon","Aaron Henry",49,NA
+"Tankathon","Isaiah Livers",50,42
+"Tankathon","Jeremiah Robinson-Earl",51,32
+"Tankathon","Luka Garza",52,52
+"Tankathon","Greg Brown",53,43
+"Tankathon","RaiQuan Gray",54,59
+"Tankathon","McKinley Wright",55,NA
+"Tankathon","Jay Huff",56,NA
+"Tankathon","Matthew Hurt",57,NA
+"Tankathon","David Johnson",58,47
+"Tankathon","Charles Bassey",59,53
+"Tankathon","Austin Reaves",60,NA
+"The Athletic","Cade Cunningham",1,1
+"The Athletic","Jalen Green",2,2
+"The Athletic","Evan Mobley",3,3
+"The Athletic","Jalen Suggs",4,5
+"The Athletic","Scottie Barnes",5,4
+"The Athletic","James Bouknight",6,11
+"The Athletic","Franz Wagner",7,8
+"The Athletic","Jonathan Kuminga",8,7
+"The Athletic","Alperen Sengun",9,16
+"The Athletic","Josh Giddey",10,6
+"The Athletic","Moses Moody",11,14
+"The Athletic","Corey Kispert",12,15
+"The Athletic","Davion Mitchell",13,9
+"The Athletic","Chris Duarte",14,13
+"The Athletic","Trey Murphy",15,17
+"The Athletic","Ziaire Williams",16,10
+"The Athletic","Jared Butler",17,40
+"The Athletic","Kai Jones",18,19
+"The Athletic","Usman Garuba",19,23
+"The Athletic","Keon Johnson",20,21
+"The Athletic","Jaden Springer",21,28
+"The Athletic","Sharife Cooper",22,48
+"The Athletic","Isaiah Jackson",23,22
+"The Athletic","Jalen Johnson",24,20
+"The Athletic","Miles McBride",25,36
+"The Athletic","Joshua Primo",26,12
+"The Athletic","Cameron Thomas",27,27
+"The Athletic","Bones Hyland",28,26
+"The Athletic","Joel Ayayi",29,NA
+"The Athletic","Ayo Dosunmu",30,38
+"The Athletic","Herbert Jones",31,35
+"The Athletic","Quentin Grimes",32,25
+"The Athletic","Tre Mann",33,18
+"The Athletic","Day'Ron Sharpe",34,29
+"The Athletic","Joe Wieskamp",35,41
+"The Athletic","JT Thor",36,37
+"The Athletic","Austin Reaves",37,NA
+"The Athletic","BJ Boston",38,51
+"The Athletic","Rokas Jokubaitis",39,34
+"The Athletic","Santi Aldama",40,30
+"The Athletic","Isaiah Todd",41,31
+"The Athletic","Josh Christopher",42,24
+"The Athletic","Filip Petrusev",43,50
+"The Athletic","Jeremiah Robinson-Earl",44,32
+"The Athletic","Jason Preston",45,33
+"The Athletic","Juhann Begarin",46,45
+"The Athletic","Isaiah Livers",47,42
+"The Athletic","Greg Brown",48,43
+"The Athletic","Sandro Mamukelashvili",49,54
+"The Athletic","David Johnson",50,47
+"The Athletic","Kessler Edwards",51,44
+"The Athletic","Vrenz Blijenbergh",52,NA
+"The Athletic","Aaron Henry",53,NA
+"The Athletic","Charles Bassey",54,53
+"The Athletic","Neemias Queta",55,39
+"The Athletic","Justin Champagnie",56,NA
+"The Athletic","Jericho Sims",57,58
+"The Athletic","Luka Garza",58,52
+"The Athletic","Moses Wright",59,NA
+"The Athletic","Matthew Hurt",60,NA
+"The Ringer","Cade Cunningham",1,1
+"The Ringer","Jalen Green",2,2
+"The Ringer","Evan Mobley",3,3
+"The Ringer","Jalen Suggs",4,5
+"The Ringer","Scottie Barnes",5,4
+"The Ringer","James Bouknight",6,11
+"The Ringer","Franz Wagner",7,8
+"The Ringer","Jonathan Kuminga",8,7
+"The Ringer","Alperen Sengun",9,16
+"The Ringer","Josh Giddey",10,6
+"The Ringer","Moses Moody",11,14
+"The Ringer","Corey Kispert",12,15
+"The Ringer","Davion Mitchell",13,9
+"The Ringer","Chris Duarte",14,13
+"The Ringer","Usman Garuba",15,23
+"The Ringer","Jalen Johnson",16,20
+"The Ringer","Cameron Thomas",17,27
+"The Ringer","Keon Johnson",18,21
+"The Ringer","Trey Murphy",19,17
+"The Ringer","Day'Ron Sharpe",20,29
+"The Ringer","Kai Jones",21,19
+"The Ringer","Ziaire Williams",22,10
+"The Ringer","Sharife Cooper",23,48
+"The Ringer","Isaiah Jackson",24,22
+"The Ringer","Jared Butler",25,40
+"The Ringer","Isaiah Todd",26,31
+"The Ringer","Jaden Springer",27,28
+"The Ringer","Joshua Primo",28,12
+"The Ringer","Miles McBride",29,36
+"The Ringer","Tre Mann",30,18
+"The Ringer","Ayo Dosunmu",31,38
+"The Ringer","Jason Preston",32,33
+"The Ringer","Rokas Jokubaitis",33,34
+"The Ringer","Bones Hyland",34,26
+"The Ringer","Josh Christopher",35,24
+"The Ringer","BJ Boston",36,51
+"The Ringer","Charles Bassey",37,53
+"The Ringer","Joel Ayayi",38,NA
+"The Ringer","Austin Reaves",39,NA
+"The Ringer","JT Thor",40,37
+"The Ringer","Juhann Begarin",41,45
+"The Ringer","Quentin Grimes",42,25
+"The Ringer","Aaron Henry",43,NA
+"The Ringer","Herbert Jones",44,35
+"The Ringer","David Johnson",45,47
+"The Ringer","Joe Wieskamp",46,41
+"The Ringer","Greg Brown",47,43
+"The Ringer","Jeremiah Robinson-Earl",48,32
+"The Ringer","Kessler Edwards",49,44
+"The Ringer","Sam Hauser",50,NA
+"The Ringer","Luka Garza",51,52
+"The Ringer","Aaron Wiggins",52,55
+"The Ringer","Vrenz Blijenbergh",53,NA
+"The Ringer","Isaiah Livers",54,42
+"The Ringer","Filip Petrusev",55,50
+"The Ringer","McKinley Wright",56,NA
+"The Ringer","Sandro Mamukelashvili",57,54
+"The Ringer","Daishen Nix",58,NA
+"The Ringer","Neemias Queta",59,39
+"The Ringer","Santi Aldama",60,30
+"The Score","Cade Cunningham",1,1
+"The Score","Jalen Green",2,2
+"The Score","Evan Mobley",3,3
+"The Score","Jalen Suggs",4,5
+"The Score","Scottie Barnes",5,4
+"The Score","Jonathan Kuminga",6,7
+"The Score","James Bouknight",7,11
+"The Score","Davion Mitchell",8,9
+"The Score","Franz Wagner",9,8
+"The Score","Josh Giddey",10,6
+"The Score","Alperen Sengun",11,16
+"The Score","Jalen Johnson",12,20
+"The Score","Corey Kispert",13,15
+"The Score","Chris Duarte",14,13
+"The Score","Moses Moody",15,14
+"The Score","Usman Garuba",16,23
+"The Score","Trey Murphy",17,17
+"The Score","Keon Johnson",18,21
+"The Score","Sharife Cooper",19,48
+"The Score","Ziaire Williams",20,10
+"The Score","Isaiah Jackson",21,22
+"The Score","Jared Butler",22,40
+"The Score","Kai Jones",23,19
+"The Score","Joshua Primo",24,12
+"The Score","Cameron Thomas",25,27
+"The Score","Tre Mann",26,18
+"The Score","Ayo Dosunmu",27,38
+"The Score","Miles McBride",28,36
+"The Score","Day'Ron Sharpe",29,29
+"The Score","Quentin Grimes",30,25
+"The Score","",31,NA
+"The Score","",32,NA
+"The Score","",33,NA
+"The Score","",34,NA
+"The Score","",35,NA
+"The Score","",36,NA
+"The Score","",37,NA
+"The Score","",38,NA
+"The Score","",39,NA
+"The Score","",40,NA
+"The Score","",41,NA
+"The Score","",42,NA
+"The Score","",43,NA
+"The Score","",44,NA
+"The Score","",45,NA
+"The Score","",46,NA
+"The Score","",47,NA
+"The Score","",48,NA
+"The Score","",49,NA
+"The Score","",50,NA
+"The Score","",51,NA
+"The Score","",52,NA
+"The Score","",53,NA
+"The Score","",54,NA
+"The Score","",55,NA
+"The Score","",56,NA
+"The Score","",57,NA
+"The Score","",58,NA
+"The Score","",59,NA
+"The Score","",60,NA
+"USA Today","Cade Cunningham",1,1
+"USA Today","Jalen Green",2,2
+"USA Today","Evan Mobley",3,3
+"USA Today","Scottie Barnes",4,4
+"USA Today","Jalen Suggs",5,5
+"USA Today","James Bouknight",6,11
+"USA Today","Josh Giddey",7,6
+"USA Today","Jonathan Kuminga",8,7
+"USA Today","Moses Moody",9,14
+"USA Today","Franz Wagner",10,8
+"USA Today","Usman Garuba",11,23
+"USA Today","Alperen Sengun",12,16
+"USA Today","Davion Mitchell",13,9
+"USA Today","Chris Duarte",14,13
+"USA Today","Trey Murphy",15,17
+"USA Today","Jalen Johnson",16,20
+"USA Today","Corey Kispert",17,15
+"USA Today","Keon Johnson",18,21
+"USA Today","Isaiah Jackson",19,22
+"USA Today","Cameron Thomas",20,27
+"USA Today","Miles McBride",21,36
+"USA Today","Tre Mann",22,18
+"USA Today","Sharife Cooper",23,48
+"USA Today","Ziaire Williams",24,10
+"USA Today","Kai Jones",25,19
+"USA Today","Joshua Primo",26,12
+"USA Today","Day'Ron Sharpe",27,29
+"USA Today","Bones Hyland",28,26
+"USA Today","Jared Butler",29,40
+"USA Today","Jaden Springer",30,28
+"USA Today","Quentin Grimes",31,25
+"USA Today","BJ Boston",32,51
+"USA Today","JT Thor",33,37
+"USA Today","Ayo Dosunmu",34,38
+"USA Today","Joe Wieskamp",35,41
+"USA Today","Josh Christopher",36,24
+"USA Today","Jason Preston",37,33
+"USA Today","Charles Bassey",38,53
+"USA Today","Joel Ayayi",39,NA
+"USA Today","Neemias Queta",40,39
+"USA Today","Isaiah Todd",41,31
+"USA Today","Herbert Jones",42,35
+"USA Today","Rokas Jokubaitis",43,34
+"USA Today","Austin Reaves",44,NA
+"USA Today","Kessler Edwards",45,44
+"USA Today","Juhann Begarin",46,45
+"USA Today","Jeremiah Robinson-Earl",47,32
+"USA Today","Vrenz Blijenbergh",48,NA
+"USA Today","David Johnson",49,47
+"USA Today","Daishen Nix",50,NA
+"USA Today","Sandro Mamukelashvili",51,54
+"USA Today","Jericho Sims",52,58
+"USA Today","Filip Petrusev",53,50
+"USA Today","Greg Brown",54,43
+"USA Today","Santi Aldama",55,30
+"USA Today","Sam Hauser",56,NA
+"USA Today","Isaiah Livers",57,42
+"USA Today","Aaron Henry",58,NA
+"USA Today","Justin Champagnie",59,NA
+"USA Today","Luka Garza",60,52
+"Stadium","Cade Cunningham",1,1
+"Stadium","Jalen Green",2,2
+"Stadium","Evan Mobley",3,3
+"Stadium","Jalen Suggs",4,5
+"Stadium","Scottie Barnes",5,4
+"Stadium","James Bouknight",6,11
+"Stadium","Davion Mitchell",7,9
+"Stadium","Franz Wagner",8,8
+"Stadium","Jonathan Kuminga",9,7
+"Stadium","Moses Moody",10,14
+"Stadium","Kai Jones",11,19
+"Stadium","Josh Giddey",12,6
+"Stadium","Corey Kispert",13,15
+"Stadium","Chris Duarte",14,13
+"Stadium","Jalen Johnson",15,20
+"Stadium","Alperen Sengun",16,16
+"Stadium","Keon Johnson",17,21
+"Stadium","Trey Murphy",18,17
+"Stadium","Tre Mann",19,18
+"Stadium","Isaiah Jackson",20,22
+"Stadium","Ziaire Williams",21,10
+"Stadium","Cameron Thomas",22,27
+"Stadium","Usman Garuba",23,23
+"Stadium","Bones Hyland",24,26
+"Stadium","Day'Ron Sharpe",25,29
+"Stadium","Quentin Grimes",26,25
+"Stadium","Jaden Springer",27,28
+"Stadium","Jared Butler",28,40
+"Stadium","Joshua Primo",29,12
+"Stadium","Ayo Dosunmu",30,38
+"Stadium","",31,NA
+"Stadium","",32,NA
+"Stadium","",33,NA
+"Stadium","",34,NA
+"Stadium","",35,NA
+"Stadium","",36,NA
+"Stadium","",37,NA
+"Stadium","",38,NA
+"Stadium","",39,NA
+"Stadium","",40,NA
+"Stadium","",41,NA
+"Stadium","",42,NA
+"Stadium","",43,NA
+"Stadium","",44,NA
+"Stadium","",45,NA
+"Stadium","",46,NA
+"Stadium","",47,NA
+"Stadium","",48,NA
+"Stadium","",49,NA
+"Stadium","",50,NA
+"Stadium","",51,NA
+"Stadium","",52,NA
+"Stadium","",53,NA
+"Stadium","",54,NA
+"Stadium","",55,NA
+"Stadium","",56,NA
+"Stadium","",57,NA
+"Stadium","",58,NA
+"Stadium","",59,NA
+"Stadium","",60,NA
+"Yahoo","Cade Cunningham",1,1
+"Yahoo","Jalen Green",2,2
+"Yahoo","Evan Mobley",3,3
+"Yahoo","Jalen Suggs",4,5
+"Yahoo","Scottie Barnes",5,4
+"Yahoo","James Bouknight",6,11
+"Yahoo","Jonathan Kuminga",7,7
+"Yahoo","Josh Giddey",8,6
+"Yahoo","Alperen Sengun",9,16
+"Yahoo","Moses Moody",10,14
+"Yahoo","Ziaire Williams",11,10
+"Yahoo","Franz Wagner",12,8
+"Yahoo","Corey Kispert",13,15
+"Yahoo","Chris Duarte",14,13
+"Yahoo","Davion Mitchell",15,9
+"Yahoo","Kai Jones",16,19
+"Yahoo","Trey Murphy",17,17
+"Yahoo","Keon Johnson",18,21
+"Yahoo","Jalen Johnson",19,20
+"Yahoo","Day'Ron Sharpe",20,29
+"Yahoo","Usman Garuba",21,23
+"Yahoo","Cameron Thomas",22,27
+"Yahoo","Isaiah Jackson",23,22
+"Yahoo","Jaden Springer",24,28
+"Yahoo","Bones Hyland",25,26
+"Yahoo","Joshua Primo",26,12
+"Yahoo","Tre Mann",27,18
+"Yahoo","Miles McBride",28,36
+"Yahoo","Quentin Grimes",29,25
+"Yahoo","Josh Christopher",30,24
+"Yahoo","Ayo Dosunmu",31,38
+"Yahoo","Jason Preston",32,33
+"Yahoo","JT Thor",33,37
+"Yahoo","Sharife Cooper",34,48
+"Yahoo","Neemias Queta",35,39
+"Yahoo","BJ Boston",36,51
+"Yahoo","Greg Brown",37,43
+"Yahoo","Isaiah Todd",38,31
+"Yahoo","Herbert Jones",39,35
+"Yahoo","Roko Prkacin",40,NA
+"Yahoo","Daishen Nix",41,NA
+"Yahoo","Filip Petrusev",42,50
+"Yahoo","Joel Ayayi",43,NA
+"Yahoo","Charles Bassey",44,53
+"Yahoo","Sandro Mamukelashvili",45,54
+"Yahoo","Aaron Wiggins",46,55
+"Yahoo","RaiQuan Gray",47,59
+"Yahoo","Joe Wieskamp",48,41
+"Yahoo","Jeremiah Robinson-Earl",49,32
+"Yahoo","David Johnson",50,47
+"Yahoo","Jericho Sims",51,58
+"Yahoo","Kessler Edwards",52,44
+"Yahoo","David Duke",53,NA
+"Yahoo","DJ Steward",54,NA
+"Yahoo","Austin Reaves",55,NA
+"Yahoo","Rokas Jokubaitis",56,34
+"Yahoo","Matthew Hurt",57,NA
+"Yahoo","Duane Washington",58,NA
+"Yahoo","Aaron Henry",59,NA
+"Yahoo","Luka Garza",60,52
