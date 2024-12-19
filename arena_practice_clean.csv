@@ -1,31 +1,31 @@
-"team","distance","time"
-"DAL",0.970581802274716,3.73333333333333
-"DEN",0,0
-"BKN",3.17458542114054,24.0666666666667
-"WAS",6.27895589755826,14.4666666666667
-"GSW",0,0.55
-"LAL",15.2745466475781,29.25
-"UTA",2.85022965879265,8.86666666666667
-"MEM",0,0
-"MIL",0.14912908613696,1.16666666666667
-"PHX",9.68220591744214,20.8
-"SAS",20.8880139982502,25.65
-"IND",0.476591704446035,2.96666666666667
-"SAC",0,0
-"LAC",0,0.0333333333333333
-"MIA",0,0
-"ORL",0.265946870277579,2.01666666666667
-"DET",2.19716853575121,7.4
-"NYK",27.4428587051619,50.85
-"POR",13.0456881810228,24.7166666666667
-"OKC",7.95665811659906,12.7666666666667
-"CLE",8.40031714785652,12.1
-"TOR",3.13295355126064,9.4
-"NOP",7.6876043903603,16
-"CHA",0,0.0166666666666667
-"ATL",7.92683229937167,20.6
-"MIN",0.137323033484451,0.95
-"BOS",7.01900898751292,19.1333333333333
-"HOU",8.82719915692357,19.3833333333333
-"CHI",0.166527479519606,0.816666666666667
-"PHI",8.68241966913227,15.15
+"team","arenaAddress","trainingAddress","distance","time"
+"DAL","American Airlines Ctr, 2500 Victory Ave, Dallas, TX 75219, United States","Mavericks Training Center, 1530 Inspiration Dr, Dallas, TX 75207, United States",0.970581802274716,3.73333333333333
+"DEN","1000 Chopper Cir, Denver, CO 80204","1000 Chopper Cir, Denver, CO 80204",0,0
+"BKN","620 Atlantic Ave, Brooklyn, NY 11217","168 39th St, Brooklyn, NY 11232",3.17458542114054,24.0666666666667
+"WAS","601 F St NW, Washington, DC 20004","Medstar Health Performance Center, 1100 Oak Dr SE, Washington, DC 20032, United States",6.27895589755826,14.4666666666667
+"GSW","1 Warriors Way, San Francisco, CA 94158","1 Warriors Way, San Francisco, CA 94158",0,0.55
+"LAL","1111 S Figueroa St, Los Angeles, CA 90015","2275 E Mariposa Ave, El Segundo, CA 90245",15.2745466475781,29.25
+"UTA","301 S Temple, Salt Lake City, UT 84101","Utah Jazz Zions Bank Basketball Campus, 1420 500 W, Salt Lake City, UT 84115, United States",2.85022965879265,8.86666666666667
+"MEM","191 Beale St, Memphis, TN 38103","191 Beale St, Memphis, TN 38103",0,0
+"MIL","1111 N Vel R. Phillips Ave, Milwaukee, WI 53203","Froedtert & MCW Sports Science Center, 1201 N 6th St, Milwaukee, WI 53203, United States",0.14912908613696,1.16666666666667
+"PHX","201 E Jefferson St, Phoenix, AZ 85004","Verizon 5G Performance Center, 5110 N 44th St, Phoenix, AZ 85018, United States",9.68220591744214,20.8
+"SAS","1 Frost Bank Center Dr, San Antonio, TX 78219","The Rock at La Cantera, 1 Spurs Wy, San Antonio, TX 78256, United States",20.8880139982502,25.65
+"IND","125 S Pennsylvania St, Indianapolis, IN 46204","Ascension St. Vincent Center, 201 Delaware St Ste. 500, Indianapolis, IN 46204, United States",0.476591704446035,2.96666666666667
+"SAC","500 David J Stern Walk, Sacramento, CA 95814","500 David J Stern Walk, Sacramento, CA 95814",0,0
+"LAC","3930 W Century Blvd, Inglewood, CA 90303","3930 W Century Blvd, Inglewood, CA 90303",0,0.0333333333333333
+"MIA","601 Biscayne Blvd, Miami, FL 33132","601 Biscayne Blvd, Miami, FL 33132",0,0
+"ORL","Kia Center, Hughey Avenue, Orlando, Orange County, Florida, 32801, United States","25 South Terry Avenue, 32805, Orlando",0.265946870277579,2.01666666666667
+"DET","2645 Woodward Ave, Detroit, MI 48201","Henry Ford Health Pistons Performance Center, 6201 2nd Ave, Detroit, MI 48202, United States",2.19716853575121,7.4
+"NYK","Madison Square Garden","711 Old Saw Mill River Rd, Tarrytown, NY 10591",27.4428587051619,50.85
+"POR","1 N Center Ct St, Portland, OR 97227","7325 SW Childs Rd, Portland, OR 97224, USA",13.0456881810228,24.7166666666667
+"OKC","100 W Reno Ave, Oklahoma City, OK 73102","9600 N Oklahoma Ave, Oklahoma City, OK 73114",7.95665811659906,12.7666666666667
+"CLE","Rocket Mortgage FieldHouse, 1 Center Court, Cleveland, OH 44115, United States","6101 Brecksville Rd, Independence, OH 44131",8.40031714785652,12.1
+"TOR","Scotiabank Arena","OVO Athletic Centre, 30 British Columbia Rd, Toronto, ON M6K 3C3, Canada",3.13295355126064,9.4
+"NOP","1501 Dave Dixon Dr, New Orleans, LA 70113","5800 Airline Dr, Metairie, LA 70003",7.6876043903603,16
+"CHO","333 E Trade St, Charlotte, NC 28202","333 E Trade St, Charlotte, NC 28202",NA,NA
+"ATL","1 State Farm Dr, Atlanta, GA 30303","Courtyard Atlanta Executive Park/Emory, 1236 Executive Park Dr NE, Atlanta, GA 30329, United States",7.92683229937167,20.6
+"MIN","600 N 1st Ave, Minneapolis, MN 55403","600 Hennepin Ave, Minneapolis, MN 55403",0.137323033484451,0.95
+"BOS","100 Legends Way, Boston, MA 02114","40 Guest St, Boston, MA 02135",7.01900898751292,19.1333333333333
+"HOU","1510 Polk St, Houston, TX 77002","7310 Old Katy Rd, Houston, TX 77024, USA",8.82719915692357,19.3833333333333
+"CHI","1901 W Madison St, Chicago, IL 60612","15 S Wood St, Chicago, IL 60612",0.166527479519606,0.816666666666667
+"PHI","3601 S Broad St, Philadelphia, PA 19148","1-99 S Front St, Camden, NJ 08103",8.68241966913227,15.15
